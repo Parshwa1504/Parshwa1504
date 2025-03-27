@@ -9,54 +9,19 @@ I'm a **Computer Science Graduate Student at George Mason University** with a st
 ---
 
 ## 🛠️ Skills & Technologies  
-
-### **Languages**: Python, SQL, R, JavaScript, C  
-
-### **Data Engineering & Cloud**  
-- **Processing & Orchestration**: AWS Lambda, AWS S3, Redis, Streamlit  
-- **Databases & Warehousing**: MySQL, PostgreSQL, Snowflake, Redshift, MongoDB  
-- **ETL/ELT Tools**: SQL Pipelines, Python Scripts, Pandas, NumPy  
-- **Cloud Platforms**: AWS, Microsoft Azure (Synapse, Data Factory)  
-
-### **Analytics & Visualization**  
-- **BI Tools**: Power BI, Tableau, Excel (Pivot Tables, VBA, Advanced Analytics)  
-- **Data Science**: Matplotlib, Seaborn, Machine Learning (XGBoost, LightGBM, CatBoost, CNNs)  
+ 
+- **Programming Languages**: SQL, Python , R, Javascript , C, Node.js  
+- **Database and Data Warehouses**: MySQL, PostgreSQL, MongoDB, Snowflake, Amazon Redshift 
+- **Data Manipulation and Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Statistical Modeling  
+- **Cloud Platforms**: Tableau, Power BI (DAX), Microsoft Excel (Advanced Analytics, Pivot Tables, VBA)  
+- **Cloud Technologies**: AWS (S3, Lambda, Redshift, RDS), Microsoft Azure (Synapse, Data Factory) 
 
 ---
 
-## 💼 Experience  
 
-**Software Developer Intern – Xcellence-IT**  
-*Dec 2023 – May 2024*  
-- Built a real-time **Face Recognition Attendance System**, improving accuracy by 30% using Python, OpenCV, InsightFace, and Redis.  
-- Designed three **Streamlit web apps** for live monitoring, user registration, and reporting.  
-- Deployed on **AWS EC2 & S3**, enabling scalable and reliable attendance tracking.  
 
----
 
-## 🚀 Notable Projects  
 
-### 🔍 Credit Card Fraud Detection  
-- Developed an ensemble fraud detection model using **CatBoost, XGBoost, LightGBM**, achieving **80%+ detection accuracy**.  
-- Generated real-time risk scores to help financial institutions prevent high-risk defaults.  
 
-### 💤 Driver Drowsiness Detection System  
-- Built a **CNN-powered** real-time alert system to prevent drowsiness-induced accidents using **OpenCV** and webcam tracking.  
-- Used 7,000+ images for eye state classification and deployed an alarm system for fatigue alerts.  
-
-### 🏏 Cricket Data Analytics – T20 World Cup  
-- Automated data extraction via **Python Web Scraping** and transformed it into structured player stats.  
-- Designed interactive **Power BI dashboards** to identify top performers and create the best team lineup using real match data.  
-
-### ☕ Coffee Sales Analysis  
-- Cleaned and processed 149k+ sales records using SQL-based ETL pipelines.  
-- Built an interactive **Power BI dashboard** to uncover sales trends, peak hours, and top-selling products for better business strategy.  
-
----
-
-## 🎓 Education  
-
-**George Mason University**, MS in Computer Science *(2024 – 2026)*  
-**Pandit Deendayal Energy University**, B.Tech in Computer Engineering *(2020 – 2024)*  
 
 
