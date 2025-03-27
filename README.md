@@ -36,7 +36,6 @@ I'm a **Computer Science Graduate Student at George Mason University** with a st
 - Cleaned and processed 149k+ sales records using SQL-based ETL pipelines.  
 - Built an interactive **Power BI dashboard** to uncover sales trends, peak hours, and top-selling products for better business strategy.  
 
----
 
 
 
