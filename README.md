@@ -22,17 +22,17 @@ I'm a **Computer Science Graduate Student at George Mason University** with a st
 
 ## 🚀 Notable Projects  
 
-### 🔍 Geospatial Data Pipeline for Taxi Analytics  
+### 🌐 Geospatial Data Pipeline for Taxi Analytics  
 - Built an automated ELT pipeline on GCP using Mage AI and BigQuery to process 10M+ geospatial taxi trips, improving query performance by 40%.  
 - Orchestrated batch ingestion and transformation workflows with Cloud Composer, and delivered KPI dashboards via Looker Studio.
 - Demonstrated cloud-native data engineering, geospatial ETL, and dashboarding at scale.
 
-### 🔍 Real-Time E-Commerce Analytics with Data Lakehouse   
+### 🛒 Real-Time E-Commerce Analytics with Data Lakehouse   
 - Designed a streaming + batch architecture using Kafka, Spark, and AWS S3 to ingest and process high-volume e-commerce transactions.  
 - Integrated dbt for transformations, enabled real-time dashboards in Power BI, and applied Great Expectations for automated data validation.
 - Improved data freshness and reduced quality issues by 40%, enabling near real-time sales tracking and churn analysis.
 
-### 🔍 Stock Market ETL & Predictive Analytics Pipeline   
+### 📈 Stock Market ETL & Predictive Analytics Pipeline   
 - Engineered a cloud-based ETL workflow using Airflow, dbt, and Snowflake to ingest stock, earnings, and sentiment data for 100+ companies.  
 - Implemented data modeling and storage in columnar formats (Parquet), and automated ML-driven predictions with 70% accuracy.
 - Enabled real-time stakeholder access through an interactive Streamlit dashboard and Snowflake views.
