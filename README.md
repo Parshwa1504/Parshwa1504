@@ -58,6 +58,7 @@ Cloud & DevOps : AWS, GCP, Azure, Docker, Git, Jenkins
 | [**Bank Loan Portfolio Analysis**](https://github.com/Parshwa1504/Bank-Loan-Analysis) | MySQL · Tableau | Exposed a **5x risk gap** across grades in a $435.8M, 38K-application portfolio |
 | [**A/B Test Statistical Analysis**](https://github.com/Parshwa1504/AB-Test-Ecommerce-Analysis) | Python · Statistical Analysis | Caught a 25.9% statistical power test — prevented a costly launch on **290K sessions** |
 | [**E-Commerce Cohort & RFM Analysis**](https://github.com/Parshwa1504/Ecommerce-Cohort-Revenue-Analysis) | SQL · Power BI | Segmented **96K customers** across $19.7M revenue · Quantified **$356K** uplift opportunity |
+| [**HR-Analytics-Employee-Attrition**](https://github.com/Parshwa1504/HR-Analytics-Employee-Attrition) | Python · SQL · SQLite · scikit-learn · Tableau · pandas · Logistic Regression | Achieved 75% model accuracy with 77% recall, identified overtime as the #1 attrition driver, and surfaced targeted retention actions projected to save $330K–$660K annually. |
 
 #### 🤖 AI & Machine Learning
 
