@@ -33,48 +33,11 @@ I sit in the overlap between **Data Analytics** and **Data Engineering** — I b
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Data Engineering & Orchestration**
-
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Mage AI](https://img.shields.io/badge/Mage_AI-6A5ACD?style=flat&logoColor=white)
-
-**Databases & Warehouses**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Analytics & BI**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+Languages : Python, SQL, R, JavaScript, Bash 
+Data Engineering & Orchestration : Apache Airflow, dbt, Apache Spark, Apache Kafka, Mage AI
+Databases & Warehouses : Snowflake, Bigquery, Redshift, PostgreSQL, MySQL, MongoDB
+Analytics & BI : Tableau, Power BI, Looker Studio, Pandas, Numpy, Excel
+Cloud & DevOps : AWS, GCP, Azure, Docker, Git, Jenkins
 
 ---
 
@@ -84,9 +47,8 @@ I sit in the overlap between **Data Analytics** and **Data Engineering** — I b
 
 | Project | Stack | Highlight |
 |---------|-------|-----------|
-| [**Stock Market ETL & Predictive Pipeline**](https://github.com/Parshwa1504/Stock-Market-ETL-Predictive-Analytics-Pipeline) | Airflow · dbt · Snowflake · Parquet | Cloud ETL ingesting data for 100+ companies · ML predictions at **70% accuracy** |
+| [**Stock Market ETL & Predictive Pipeline**]([https://github.com/Parshwa1504/Stock-Market-ETL-Predictive-Analytics-Pipeline](https://github.com/Parshwa1504/Stock-Market-ETL-Predictive-Analytics-Pipeline)) | Airflow · dbt · Snowflake · Parquet | Cloud ETL ingesting data for 100+ companies · ML predictions at **70% accuracy** |
 | [**Geospatial Data Pipeline for Taxi Analytics**](https://github.com/Parshwa1504) | GCP · BigQuery · Mage AI · Looker Studio | ELT pipeline processing **10M+ trips** · **40%** query speedup |
-| [**Real-Time E-Commerce Lakehouse**](https://github.com/Parshwa1504) | Kafka · Spark · AWS S3 · dbt | Streaming + batch hybrid · **40%** fewer data quality issues |
 
 #### 📊 Data Analytics
 
