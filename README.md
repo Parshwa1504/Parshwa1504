@@ -70,22 +70,9 @@ Cloud & DevOps : AWS, GCP, Azure, Docker, Git, Jenkins
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parshwa1504&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshwa1504&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Parshwa1504&theme=default&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
-If you've been burned by a flaky pipeline at 2 AM — or watched a team argue about what a number means for an hour — we should talk.
+If you've been burned by a flaky pipeline at 2 AM or watched a team argue about what a number means for an hour we should talk.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gandhiparshwa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
