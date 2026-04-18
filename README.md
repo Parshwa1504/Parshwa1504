@@ -58,7 +58,7 @@ Cloud & DevOps : AWS, GCP, Azure, Docker, Git, Jenkins
 | [**Bank Loan Portfolio Analysis**](https://github.com/Parshwa1504/Bank-Loan-Analysis) | MySQL · Tableau | Exposed a **5x risk gap** across grades in a $435.8M, 38K-application portfolio |
 | [**A/B Test Statistical Analysis**](https://github.com/Parshwa1504/AB-Test-Ecommerce-Analysis) | Python · Statistical Analysis | Caught a 25.9% statistical power test — prevented a costly launch on **290K sessions** |
 | [**E-Commerce Cohort & RFM Analysis**](https://github.com/Parshwa1504/Ecommerce-Cohort-Revenue-Analysis) | SQL · Power BI | Segmented **96K customers** across $19.7M revenue · Quantified **$356K** uplift opportunity |
-| [**HR-Analytics-Employee-Attrition**](https://github.com/Parshwa1504/HR-Analytics-Employee-Attrition) | Python · SQL · SQLite · scikit-learn · Tableau · pandas · Logistic Regression | Achieved 75% model accuracy with 77% recall, identified overtime as the #1 attrition driver, and surfaced targeted retention actions projected to save $330K–$660K annually. |
+| [**HR Analytics Employee Attrition**](https://github.com/Parshwa1504/HR-Analytics-Employee-Attrition) | Python · SQL · SQLite · scikit-learn · Tableau · pandas · Logistic Regression | Achieved 75% model accuracy with 77% recall, identified overtime as the #1 attrition driver, and surfaced targeted retention actions projected to save $330K–$660K annually. |
 
 #### 🤖 AI & Machine Learning
 
@@ -66,8 +66,9 @@ Cloud & DevOps : AWS, GCP, Azure, Docker, Git, Jenkins
 |---------|-------|-----------|
 | [**Credit Card Fraud Detection**](https://github.com/Parshwa1504/Credit-Card-Default-Detection) | CatBoost · XGBoost · LightGBM | Ensemble model with **80%+ detection accuracy** on real-time risk scoring |
 | [**Driver Drowsiness Detection System**](https://github.com/Parshwa1504/Driver-Drowsiness-Detection-System) | CNN · OpenCV · Keras | Real-time alert system trained on 7,000+ eye-state images |
+| [**AI Code Review and Security Auditor Agent**](https://github.com/Parshwa1504/AI-Code-Review-and-Security-Auditor-Agent) | Python · LLMs · NLP · Security · AI | Detects critical vulnerabilities like SQL and XSS with automated remediation suggestions, improving code security at scale. |
 
-📂 **See all 19 projects →** [github.com/Parshwa1504?tab=repositories](https://github.com/Parshwa1504?tab=repositories)
+📂 **See all projects →** [github.com/Parshwa1504?tab=repositories](https://github.com/Parshwa1504?tab=repositories)
 
 ---
 
