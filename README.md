@@ -2,11 +2,6 @@
 <h3 align="center">Data Analyst & Data Engineer · MS Computer Science @ George Mason University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parshwa1504&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Summer%202026%20Roles-success?style=flat" alt="open to work" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/gandhiparshwa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://parshwa-portfolio-vert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:pgandhi6@gmu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
