@@ -15,7 +15,6 @@ I sit in the overlap between **Data Analytics** and **Data Engineering** — I b
 
 - 🎓 Graduating **MS Computer Science** from **George Mason University** in **May 2026**
 - 💼 Previously: **ML Product Engineer Intern** @ Aorbis · **Software Developer Intern** @ Xcellence-IT
-- 🔭 Currently building: streaming pipelines with **Kafka + Spark**, and BI dashboards in **Tableau + Power BI**
 - 🌎 Based in the **Washington DC** area — open to relocation
 - 📬 Reach me at **pgandhi6@gmu.edu**
 
