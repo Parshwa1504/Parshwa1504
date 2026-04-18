@@ -47,24 +47,24 @@ Cloud & DevOps : AWS, GCP, Azure, Docker, Git, Jenkins
 
 | Project | Stack | Highlight |
 |---------|-------|-----------|
-| [**Stock Market ETL & Predictive Pipeline**]([https://github.com/Parshwa1504/Stock-Market-ETL-Predictive-Analytics-Pipeline](https://github.com/Parshwa1504/Stock-Market-ETL-Predictive-Analytics-Pipeline)) | Airflow · dbt · Snowflake · Parquet | Cloud ETL ingesting data for 100+ companies · ML predictions at **70% accuracy** |
-| [**Geospatial Data Pipeline for Taxi Analytics**](https://github.com/Parshwa1504) | GCP · BigQuery · Mage AI · Looker Studio | ELT pipeline processing **10M+ trips** · **40%** query speedup |
+| [**Stock Market ETL & Predictive Pipeline**](https://github.com/Parshwa1504/Stock-Market-ETL-Predictive-Analytics-Pipeline) | Airflow · dbt · Snowflake · Parquet | Cloud ETL ingesting data for 100+ companies · ML predictions at **70% accuracy** |
+| [**Geospatial Data Pipeline for Taxi Analytics**](https://github.com/Parshwa1504/Geospatial-Data-Pipeline-for-Taxi-Analytics) | GCP · BigQuery · Mage AI · Looker Studio | ELT pipeline processing **10M+ trips** · **40%** query speedup |
 
 #### 📊 Data Analytics
 
 | Project | Stack | Highlight |
 |---------|-------|-----------|
-| [**Customer Churn Analysis**](https://github.com/Parshwa1504) | SQL · Tableau · Python | Found the **$130K** churn driver in 7,043 telecom customers |
-| [**Bank Loan Portfolio Analysis**](https://github.com/Parshwa1504) | MySQL · Tableau | Exposed a **5x risk gap** across grades in a $435.8M, 38K-application portfolio |
+| [**Customer Churn Analysis**](https://github.com/Parshwa1504/Customer-Churn-Analysis) | SQL · Tableau · Python | Found the **$130K** churn driver in 7,043 telecom customers |
+| [**Bank Loan Portfolio Analysis**](https://github.com/Parshwa1504/Bank-Loan-Analysis) | MySQL · Tableau | Exposed a **5x risk gap** across grades in a $435.8M, 38K-application portfolio |
 | [**A/B Test Statistical Analysis**](https://github.com/Parshwa1504/AB-Test-Ecommerce-Analysis) | Python · Statistical Analysis | Caught a 25.9% statistical power test — prevented a costly launch on **290K sessions** |
-| [**E-Commerce Cohort & RFM Analysis**](https://github.com/Parshwa1504) | SQL · Power BI | Segmented **96K customers** across $19.7M revenue · Quantified **$356K** uplift opportunity |
+| [**E-Commerce Cohort & RFM Analysis**](https://github.com/Parshwa1504/Ecommerce-Cohort-Revenue-Analysis) | SQL · Power BI | Segmented **96K customers** across $19.7M revenue · Quantified **$356K** uplift opportunity |
 
 #### 🤖 AI & Machine Learning
 
 | Project | Stack | Highlight |
 |---------|-------|-----------|
-| [**Credit Card Fraud Detection**](https://github.com/Parshwa1504) | CatBoost · XGBoost · LightGBM | Ensemble model with **80%+ detection accuracy** on real-time risk scoring |
-| [**Driver Drowsiness Detection System**](https://github.com/Parshwa1504) | CNN · OpenCV · Keras | Real-time alert system trained on 7,000+ eye-state images |
+| [**Credit Card Fraud Detection**](https://github.com/Parshwa1504/Credit-Card-Default-Detection) | CatBoost · XGBoost · LightGBM | Ensemble model with **80%+ detection accuracy** on real-time risk scoring |
+| [**Driver Drowsiness Detection System**](https://github.com/Parshwa1504/Driver-Drowsiness-Detection-System) | CNN · OpenCV · Keras | Real-time alert system trained on 7,000+ eye-state images |
 
 📂 **See all 19 projects →** [github.com/Parshwa1504?tab=repositories](https://github.com/Parshwa1504?tab=repositories)
 
